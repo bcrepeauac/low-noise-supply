@@ -2,4 +2,4 @@
 Low noise power supply.
 
 # Board URL
-https://oshpark.com/orders/zzqgTJKe?order_access_token=9b8ea5f3ebef8d2f
+<a href="https://oshpark.com/shared_projects/2ezitMQO"><img src="https://oshpark.com/packs/media/images/badge-5f4e3bf4bf68f72ff88bd92e0089e9cf.png" alt="Order from OSH Park"></img></a>
